@@ -70,7 +70,13 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 
+
+
+
+
+
 # Program :
+
 ```
 Developed by : HIRUTHIK SUDHAKAR
 Register number : 212223240054
