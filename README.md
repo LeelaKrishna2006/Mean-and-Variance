@@ -22,9 +22,11 @@ It is calculated as,
 ![image](https://user-images.githubusercontent.com/103921593/192938463-e34177f4-f188-48a0-bda2-8f6d1d660ed2.png)
 
 
+
 The variance of a random variable shows the variability or the scatterings of the random variables.
 
 It shows the distance of a random variable from its mean. It is calcualted as
+
 
 ![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
 
