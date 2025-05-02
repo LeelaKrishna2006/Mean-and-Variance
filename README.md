@@ -1,4 +1,4 @@
-# DATE : 
+[# DATE : 
 
 
 # EXP NO : 1  Mean and variance of a discrete  distribution
@@ -76,8 +76,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 ```
-Developed by : HIRUTHIK SUDHAKAR
-Register number : 212223240054
+Developed by : ARANI VENKATA SUNDARA LEELA KRISHNA
+Register number : 212224240013
 ```
 
 
@@ -113,3 +113,4 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
+](https://github.com/ramjan1729/Mean-and-Varianc)
